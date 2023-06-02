@@ -56,18 +56,18 @@ public class Astronaut extends View {
     private Bitmap mapBitmap;
 
 
-    public class RacingCar extends View {
+    public class Astronaut2 extends View {
 
 
-        public RacingCar(Context context) {
+        public Astronaut2(Context context) {
             super(context);
         }
 
-        public RacingCar(Context context, AttributeSet attrs) {
+        public Astronaut2(Context context, AttributeSet attrs) {
             super(context, attrs);
         }
 
-        public RacingCar(Context context, AttributeSet attrs, int defStyle) {
+        public Astronaut2(Context context, AttributeSet attrs, int defStyle) {
             super(context, attrs, defStyle);
         }
     }
